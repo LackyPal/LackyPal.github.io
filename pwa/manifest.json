@@ -1,0 +1,23 @@
+{
+  "name": "Dev Lacky Pal",
+  "short_name": "Dev Lacky",
+  "description": "My very own link-in-bio app!",
+  "icons": [
+    {
+      "sizes": "800x800",
+      "type": "image/png",
+      "src": "https://cdn.glitch.global/1decade9-af83-496c-bd1a-66e5efc353fb/avatar.jpg?v=1702371515438",
+      "purpose": "any"
+    },
+    {
+      "sizes": "180x180",
+      "type": "image/png",
+      "src": "https://cdn.glitch.global/1decade9-af83-496c-bd1a-66e5efc353fb/avatar.jpg?v=1702371515438",
+      "purpose": "maskable"
+    }
+  ],
+  "display": "standalone",
+  "background_color": "#D7F5EF",
+  "theme_color": "#9480FF",
+  "start_url": "/"
+}
